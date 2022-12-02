@@ -53,6 +53,8 @@ C와 자바를 이용해서 제조사가 추천하는 프로그래밍 언어를 
 
 1-2 개발환경과 코드실행 (VisualStudio .ver)
 
+![img](https://velog.velcdn.com/images/dnr0000/post/5a8b19e6-3b4b-4794-a957-9dcdf997f053/image.png)
+
 콘솔창에서
 
 헬로 자바스크립트...! 가 출력되었다.
@@ -83,9 +85,11 @@ undefined // 해당 줄의 결과를 나타낸다.
 
 타자오타로 오류일경우 어떻게 될까
 
+```
 <script>
         alrt('Hello world')
     </script>
+```
 
 검사로 콘솔에 들어가니 친절하게도 오류를 알려줘서 쉽게 찾을수 있는거 같다!
 
