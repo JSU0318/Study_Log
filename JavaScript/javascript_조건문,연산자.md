@@ -134,8 +134,6 @@ switch (자료) {
 
 실행결과는 2라고 치면 짝수가 나오고 81치면 홀수가 나온다.
 
-<center>
-
 2의 실행결과
 
 ![img](https://velog.velcdn.com/images/dnr0000/post/bb1dac94-3fe3-42a1-ae89-daeefd632444/image.png)
@@ -147,8 +145,6 @@ switch (자료) {
 ![img](https://velog.velcdn.com/images/dnr0000/post/51d2620e-c944-4e0b-9e5f-131d0a810ab5/image.png)
 
 ![img](https://velog.velcdn.com/images/dnr0000/post/774106ee-1688-44c0-95c6-648e7134f735/image.png)
-
-</center>
 
 ```
 조건부 연산자란?
